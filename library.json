@@ -13,6 +13,6 @@
     "dependencies": {
         "secplus": "*"
     },
-    "frameworks": "esp-idf",
+    "frameworks": "arduino",
     "platforms": "*"
 }
