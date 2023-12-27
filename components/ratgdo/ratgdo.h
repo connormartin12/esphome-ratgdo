@@ -12,7 +12,7 @@
  ************************************/
 
 #pragma once
-#include "SoftwareSerial.h" // Using espsoftwareserial https://github.com/plerup/espsoftwareserial
+#include "EspSoftwareSerial.h" // Using espsoftwareserial https://github.com/plerup/espsoftwareserial
 #include "callbacks.h"
 #include "enum.h"
 #include "esphome/core/component.h"
