@@ -30,7 +30,7 @@ dashboard_import:
 
 packages:
   remote_package:
-    url: https://github.com/connormartin12/esphome-ratgdo
+    url: https://github.com/ratgdo/esphome-ratgdo
     files: [base.yaml]
     refresh: 1s
 
